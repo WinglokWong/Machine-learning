@@ -1,2 +1,5 @@
 # Machine-learning
-Basic algorithm and knowledge
+
+* Linear Regression with Stochastic Gradient Descent 
+* Logistic Regression
+* Support Vector Machine
